@@ -4,4 +4,13 @@ This repository contains the code inside ipynb notebook for interactive Linear R
 
 The user can check for correlations between different features in an interactive manner and can predict the insurance cost by varying continuous feature parameters using sliders and discrete feature parameters using dropdown boxes
 
+Interactive Correlation Finder:
+
+https://user-images.githubusercontent.com/64778259/207160662-b7f8f398-e807-4421-979c-ce40de69e202.mov
+
+Interactive Regression Predictor:
+
+https://user-images.githubusercontent.com/64778259/207160690-243e03b5-0a39-4151-9751-023bf47d8a33.mov
+
+
 Dataset used: https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
